@@ -1,3 +1,4 @@
+// this is just a joke algorthim made famous by user on 4chan and has no good use and just for fun 
 #include <iostream>
 #include <thread>
 #include <vector>
