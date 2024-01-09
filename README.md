@@ -5,11 +5,12 @@
 
 <h1>C++</h1>
 
- <h2 align="center"> Sorting </h2>
- 
- - [Sleep Sort -Joke](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/sleepingsort.cpp)
- - [Quick Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/quicksort.cpp)
- - [Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/bubblesort.cpp)
+|                                       Sorting                                                   |
+| ------------------------------------------------------------------------------------------------|
+|[Sleep Sort -Joke](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/sleepingsort.cpp) |
+|[Quick Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/quicksort.cpp)          |
+|[Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/bubblesort.cpp)        |
+
 
  <h2> Searching</h2>
  
