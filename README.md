@@ -23,7 +23,7 @@
 
 <h1>C</h1>
 
- <h2> Sorting </h2>
- 
-- [Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/bubblesort.c)
-- [Quick sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/quicksort.c)
+ |Sorting|
+ |----------------|
+ | [Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/bubblesort.c) |
+ | [Quick sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/quicksort.c)   |
