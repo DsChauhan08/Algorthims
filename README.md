@@ -12,7 +12,6 @@
 |[Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/bubblesort.cpp)        |
 
 
- <h2> Searching</h2>
 
  |Searching|
  |---------|
