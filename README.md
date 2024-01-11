@@ -26,3 +26,11 @@
  |----------------|
  | [Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/bubblesort.c) |
  | [Quick sort](https://github.com/DsChauhan08/Algorthims/blob/main/C/quicksort.c)   |
+
+<br>
+
+<h1>Java</h1>
+
+ |Sorting|
+ |----------------|
+ | [Quick sort](https://github.com/DsChauhan08/Algorthims/blob/main/Java/quicksort.java)   |
