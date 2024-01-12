@@ -2,7 +2,6 @@
 
 <br>
 
-
 <h1>C++</h1>
 
 |                                       Sorting                                                   | 
@@ -12,11 +11,9 @@
 |[Bubble Sort](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/bubblesort.cpp)        |
 
 
-
  |Searching|
  |---------|
  |[Boyer-Moores-string-search](https://github.com/DsChauhan08/Algorthims/blob/main/c%2B%2B/Boyer-Moores-string-search.cpp) |
-
 
 <br>
 
